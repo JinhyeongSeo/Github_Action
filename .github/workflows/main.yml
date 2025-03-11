@@ -30,4 +30,4 @@ jobs:
           git commit -m "Automated update from My Crawler" || echo "No changes to commit"
           git push origin main
         env:
-          My_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          MY_TOKEN: ${{ secrets.ACCESS_TOKEN }}
