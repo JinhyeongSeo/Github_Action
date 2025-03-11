@@ -1,11 +1,12 @@
 name: My Crawler
 
 on:
-  push:
-    branches: [ "main" ]
   schedule:
     - cron: '0 23 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main  # main 브랜치에 푸시될 때 워크플로우 실행
 
 jobs:
   build:
@@ -15,9 +16,18 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
       - name: Install dependencies
-        run : |
+        run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Run My Crawler
         run: |
           python main.py
+      - name: Commit and Push changes to main
+        run: |
+          git config user.name "JinhyeongSeo"
+          git config user.email "jh4clover@naver.com"
+          git add .
+          git commit -m "Automated update from My Crawler" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
