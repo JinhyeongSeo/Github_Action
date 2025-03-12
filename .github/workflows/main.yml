@@ -28,6 +28,4 @@ jobs:
           git config user.email "jh4clover@naver.com"
           git add .
           git commit -m "Automated update from My Crawler" || echo "No changes to commit"
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          git push https://JinhyeongSeo:${{ secrets.ACCESS_TOKEN }}@github.com/JinhyeongSeo/Github_Action.git HEAD:main
