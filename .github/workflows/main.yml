@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main  # main 브랜치에 푸시될 때 워크플로우 실행
+      - main
 
 jobs:
   build:
@@ -30,4 +30,4 @@ jobs:
           git commit -m "Automated update from My Crawler" || echo "No changes to commit"
           git push origin main
         env:
-          MY_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
