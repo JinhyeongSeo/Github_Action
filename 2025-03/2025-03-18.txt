@@ -1,0 +1,134 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Project Leyden Ships Third Option for Faster Application Start with JEP 483 in Java 24
+                        
+주소 : https://www.infoq.com//news/2025/03/java-24-leyden-ships/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         In Java 24, Project Leyden’s JEP 483, "Ahead-of-Time Class Loading & Linking", starts Java applications like Spring PetClinic up to 40% faster without code changes or new application constraints. It needs a training run to build a cache file that ships with the application. With GraalVM Native Image and CRaC, the startup is 95-99% faster but faces more constraints. Leyden plans more improvements.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Meta Unifies Facebook’s Video Delivery System Across Mobile and Web Apps
+                        
+주소 : https://www.infoq.com//news/2025/03/facebook-video-delivery-unifed/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         Meta finalized efforts to consolidate Facebook’s video delivery system by migrating video experiences from older Watch product to more recent Reels product, which became the basis of the unified system. The unification process required changes across mobile UI, server backend, and ranking systems while ensuring a seamless transition for billions of users.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Google Launches Gemma 3 1B For Mobile and Web Apps
+                        
+주소 : https://www.infoq.com//news/2025/03/google-gemma-3-1b/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         Requiring a "mere" 529MB, Gemma 3 1B is a small language model (SLM) specifically meant for distribution across mobile and Web apps, where models must download quickly and be responsive to keep user engagement high.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            .NET Team Announces Release of HybridCache Library for .NET 9
+                        
+주소 : https://www.infoq.com//news/2025/03/hybrid-cache-dotnet9-release/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         Last week, the .NET Team announced the release of HybridCache, a new .NET 9 library, now available through the Microsoft.Extensions.Caching.Hybrid package. According to the source, the library is designed to enhance data storage and retrieval performance by combining both in-memory and distributed caches, such as Redis.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Jakarta NoSQL 1.0, Spring 7.0-M3, Maven 4.0-RC3, LangChain4j 1.0-beta2
+                        
+주소 : https://www.infoq.com//news/2025/03/java-news-roundup-mar10-2025/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         This week's Java roundup for March 10th, 2025 features news highlighting: OpenJDK JEPs targeted and proposed to target for JDK 25; the release of Jakarta NoSQL 1.0; the third milestone release of Spring Framework 7.0; the third release candidate of Maven 4.0; and the second beta release of LangChain4j 1.0.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            The Future of Htmx - Stability and Compatibility
+                        
+주소 : https://www.infoq.com//news/2025/03/htmx-future-stability-compat/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         The htmx team recently released an essay addressing the future of htmx. htmx wants to be a low-cost, high-value addition to the toolkits of web developers with a focus on stability and backward compatibility. Going forward, htmx will be developed with its existing users in mind. Websites built with htmx should be working for many years without changes.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            OpenAI Launches New API, SDK, and Tools to Develop Custom Agents
+                        
+주소 : https://www.infoq.com//news/2025/03/openai-responses-api-agents-sdk/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         OpenAI has announced the new Responses API, the Agents SDK, and observability tools to address the challenges that creating production-ready agents pose, such as building custom orchestration, and handling prompt iteration across complex, multi-step tasks.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Google Report Reveals How Threat Actors Are Currently Using Generative AI
+                        
+주소 : https://www.infoq.com//news/2025/03/misuse-generative-ai/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+
+9 번째 검색 내용 
+제목 : 
+
+                            DevProxy 0.25 Improves Configuration Management, Joins .NET Foundation
+                        
+주소 : https://www.infoq.com//news/2025/03/devproxy-025-net-foundation/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         Microsoft has released version 0.25 of DevProxy, an API simulation command-line tool. The new version improves the tool's configuration management and adds a couple of usability features. The project is also added to the .NET Foundation, a non-profit organisation to support the .NET platform ecosystem.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Google Cloud's AI Protection: a Solution to Securing AI Assets
+                        
+주소 : https://www.infoq.com//news/2025/03/gcp-ai-protection-security/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         Google Cloud introduces AI Protection, a solution to safeguard against generative AI threats. Managing AI risks through vulnerability assessments, security policies, and proactive threat management enhances asset protection. Integrating with Google’s Security Command Center offers a centralized view of IT posture and advanced security intelligence for robust AI system defense.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Microsoft Launches New AI Chat Web App Template for .NET Development
+                        
+주소 : https://www.infoq.com//news/2025/03/microsoft-dotnet-ai-template/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         Last week, Microsoft announced a new AI Chat Web App template, available in preview, designed to simplify AI development with .NET. This template is part of Microsoft's ongoing efforts to make AI more accessible, offering scaffolding and guidance in Visual Studio, Visual Studio Code, and the .NET CLI.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Learnings from Working with Programming Rules and Guidelines
+                        
+주소 : https://www.infoq.com//news/2025/03/learnings-programming-rules/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         Programming rules and guidelines improve code consistency, but misapplication can lead to poor results. Arne Mertz suggests that software developers selectively adopt rules and guidelines, and document deviations with clear explanations. They can discuss their experiences in communities or during their daily work, to foster collaboration and improve code quality without unnecessary bureaucracy.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Microsoft Enhances Azure Elastic SAN with Auto Scale, Snapshot Support, and CRC Protection
+                        
+주소 : https://www.infoq.com//news/2025/03/azure-elastic-san-updates/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         Microsoft's Azure Elastic SAN, launched in early 2024, revolutionizes cloud block storage with unique autoscale capabilities, snapshot support, and CRC protection for enhanced data integrity. This fully managed solution simplifies storage management and optimizes costs, making it ideal for businesses seeking efficient, high-availability solutions in the cloud.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Quarkus 3.19 Prepares for LTS Release 3.20
+                        
+주소 : https://www.infoq.com//news/2025/03/quarkus-3-19/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         One month after the release of Quarkus 3.18.0, version 3.19.0 was released in February 2025. This is the last release before the next long-term support (LTS) version, 3.20.0, which is now feature complete and scheduled to be released on March 26th according to the Release Planning guide. The new release uses the new @ConfigMapping infrastructure, UBI 9 images and Mockito’s inline strategy.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            SharePoint Framework 1.21 Adds Minor Updates for UI Components
+                        
+주소 : https://www.infoq.com//news/2025/03/spfx-121-updates-ui/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
+설명 : 
+                         Microsoft recently released a beta version 1.21 of SharePoint Framework with minor feature updates regarding the user interface components. The public release is expected to contain more features.
+                    
