@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup as bs4
-from googletrans import Translator
+from deep_translator import GoogleTranslator as Translator
 
 header = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
@@ -47,13 +47,11 @@ def getDesc():
     return desc
 
 # 번역
-translator = Translator()
-
 def translate_text(text, retries=3):
     for attempt in range(retries):
         try:
-            result = translator.translate(text, dest='ko')
-            return result.text
+            result = Translator(source='en',target='ko').translate(text)
+            return result
         except Exception as e:
             print(f"오류가 발생했습니다: {e}")
             break
