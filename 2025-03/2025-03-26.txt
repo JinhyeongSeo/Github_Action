@@ -1,135 +1,60 @@
 1 번째 검색 내용 
-제목 : 
-
-                            Microsoft Officially Supports Rust on Azure with First SDK Beta
-                        
-주소 : https://www.infoq.com//news/2025/03/azure-sdk-rust-beta/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         Microsoft's beta release of the Azure SDK for Rust empowers developers to seamlessly connect with Azure services. Featuring libraries for Identity, Key Vault, Event Hubs, and Cosmos DB, this initiative underscores Rust's growing significance in high-performance applications. As Microsoft enhances the SDK, it aims to deliver a robust and user-friendly developer experience.
-                    
+제목 : FAUNADB의 도로 끝 : 미래는 오픈 소스입니까?
+주소 : https://www.infoq.com//news/2025/03/fauna-shuts-down/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 분산 서버리스 데이터베이스 동물 군의 팀은 최근 5 월 말까지 서비스를 종료 할 계획을 발표했습니다. 관리되는 데이터베이스는 곧 종료되고 모든 고객이 다른 플랫폼으로 마이그레이션해야하지만 Fauna는 기존 드라이버 및 CLI 툴링과 함께 핵심 데이터베이스 기술의 오픈 소스 버전을 공개하기 위해 노력하고 있습니다.
 2 번째 검색 내용 
-제목 : 
-
-                            OpenSilver 3.2 Extends Silverlight and WPF to Mobile Devices
-                        
-주소 : https://www.infoq.com//news/2025/03/opensilver-32-crossplatform/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         The latest version of OpenSilver 3.2, a remake of Microsoft's retired Silverlight web application framework, extends the platform to mobile devices using a .NET MAUI Hybrid approach.
-                    
+제목 : Microsoft는 공식적으로 첫 SDK 베타로 Azure의 Rust를 지원합니다.
+주소 : https://www.infoq.com//news/2025/03/azure-sdk-rust-beta/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : Rust for Azure SDK의 Microsoft의 베타 릴리스는 개발자가 Azure Services와 완벽하게 연결할 수 있도록합니다. ID, Key Vault, Event Hubs 및 Cosmos DB를위한 라이브러리를 특징으로하는이 이니셔티브는 고성능 응용 프로그램에서 Rust의 증가하는 중요성을 강조합니다. Microsoft가 SDK를 향상 시키면 강력하고 사용자 친화적 인 개발자 경험을 제공하는 것을 목표로합니다.
 3 번째 검색 내용 
-제목 : 
-
-                            .NET 10 Preview 2: Enhanced Reconnection UI, Improved Blazor Features, and Updates across the Stack
-                        
-주소 : https://www.infoq.com//news/2025/03/dotnet-10-preview2/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         Last week, the .NET Team announced the second preview release of .NET 10 introducing several enhancements across various components, including .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more.
-                    
+제목 : OpenSilver 3.2는 Silverlight 및 WPF를 모바일 장치로 확장합니다
+주소 : https://www.infoq.com//news/2025/03/opensilver-32-crossplatform/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : Microsoft의 은퇴 한 Silverlight 웹 애플리케이션 프레임 워크의 리메이크 인 Opensilver 3.2의 최신 버전은 .NET Maui 하이브리드 접근 방식을 사용하여 플랫폼을 모바일 장치로 확장합니다.
 4 번째 검색 내용 
-제목 : 
-
-                            Java News Roundup: JDK 24, GraalVM for JDK 24, Payara Platform, Kafka 4.0, Spring CVEs, JavaOne 2025
-                        
-주소 : https://www.infoq.com//news/2025/03/java-news-roundup-mar17-2025/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         This week's Java roundup for March 17th, 2025, features news highlighting: the GA releases of JDK 24 and Apache Kafka 4.0; the March 2025 edition of the Payara Platform; Spring Security CVEs; and JavaOne 2025.
-                    
+제목 : .NET 10 미리보기 2 : 향상된 재 연결 UI, 개선 된 블레이저 기능 및 스택 전체의 업데이트
+주소 : https://www.infoq.com//news/2025/03/dotnet-10-preview2/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 지난주 .NET 팀은 .NET 10의 두 번째 미리보기 릴리스를 발표했습니다.
 5 번째 검색 내용 
-제목 : 
-
-                            TikTok's Native Cross-Platform UI Framework Lynx Goes Open Source
-                        
-주소 : https://www.infoq.com//news/2025/03/tiktok-lynx-cross-platform-apps/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         TitTok matrix ByteDance has open-sourced Lynx, a collection of frameworks and tools enabling the creation of native, cross-platform mobile apps using Web markup, CSS, and JavaScript. Lynx aims to deliver native performance thanks to its custom JavaScript engine and pixel-perfect UI rendering.
-                    
+제목 : Java News Roundup : JDK 24, JDK 24 용 Graalvm, Payara 플랫폼, Kafka 4.0, Spring Cves, Javaone 2025
+주소 : https://www.infoq.com//news/2025/03/java-news-roundup-mar17-2025/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 이번 주 2025 년 3 월 17 일 Java Roundup은 뉴스 강조 표시를 특징으로합니다. JDK 24 및 Apache Kafka 4.0의 GA 릴리스; Payara 플랫폼의 2025 년 3 월 판; 스프링 보안 CVE; 및 Javaone 2025.
 6 번째 검색 내용 
-제목 : 
-
-                            Spring News Roundup: Milestone Releases of Boot, Security, Auth Server, GraphQL, Integration, AMQP
-                        
-주소 : https://www.infoq.com//news/2025/03/spring-news-roundup-mar17-2025/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         There was a flurry of activity in the Spring ecosystem during the week of March 17th, 2025, highlighting milestone releases of: Spring Boot, Spring Security, Spring Authorization Server, Spring for GraphQL, Spring Integration, Spring AMQP, Spring for Apache Kafka and Spring Web Services.
-                    
+제목 : Tiktok의 기본 크로스 플랫폼 UI 프레임 워크 Lynx는 오픈 소스입니다
+주소 : https://www.infoq.com//news/2025/03/tiktok-lynx-cross-platform-apps/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : Tittok Matrix Bytedance에는 웹 마크 업, CSS 및 JavaScript를 사용하여 기본 크로스 플랫폼 모바일 앱을 생성 할 수있는 프레임 워크 및 도구 모음 인 Open-Sourced Lynx가 있습니다. Lynx는 맞춤형 JavaScript 엔진과 Pixel-Perfect UI 렌더링 덕분에 기본 성능을 제공하는 것을 목표로합니다.
 7 번째 검색 내용 
-제목 : 
-
-                            GPT-4o Code Completion Model Now Available in Public Preview for VS Code Copilot
-                        
-주소 : https://www.infoq.com//news/2025/03/gpt4o-code-completion-vscode/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         Recently, GPT-4o Copilot is introduced for Visual Studio Code (VS Code) users. This AI model is built upon the GPT-4o mini foundation and includes extensive training from over 275,000 high-quality public repositories across more than 30 widely used programming languages. The enhanced training is expected to provide more accurate and contextually relevant code suggestions.
-                    
+제목 : Spring News Roundup : 부팅, 보안, 인증 서버, GraphQL, 통합, AMQP의 이정표 릴리스
+주소 : https://www.infoq.com//news/2025/03/spring-news-roundup-mar17-2025/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 2025 년 3 월 17 일 주에 봄 생태계에서 활동이 급증하여 Spring Boot, Spring Security, Spring Authorization Server 용 Spring, Spring Integration, Spring AMQP, Spring for Apache Kafka 및 Spring Web Services의 이정표 릴리스를 강조했습니다.
 8 번째 검색 내용 
-제목 : 
-
-                            Google Cloud Launches A4 VMs with NVIDIA Blackwell GPUs for AI Workloads
-                        
-주소 : https://www.infoq.com//news/2025/03/google-a4-vms-nvidia-blackwell/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         Google Cloud has launched A4 VMs, powered by NVIDIA's Blackwell B200 GPUs, revolutionizing AI workloads with a 2.25x performance boost and advanced networking. Key features include tight integration with Google Kubernetes Engine and Vertex AI, enhancing deployment and management of large-scale projects. This innovative partnership sets a new standard in cloud infrastructure for AI.
-                    
+제목 : GPT-4O 코드 완료 모델 VS Code Copilot에 대한 공개 미리보기에서 사용할 수 있습니다.
+주소 : https://www.infoq.com//news/2025/03/gpt4o-code-completion-vscode/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 최근에 GPT-4O Copilot은 Visual Studio Code (VS Code) 사용자를 위해 소개되었습니다. 이 AI 모델은 GPT-4O Mini Foundation을 기반으로 구축되었으며 30 개 이상의 널리 사용되는 프로그래밍 언어에 걸쳐 275,000 개 이상의 고품질 공공 저장소의 광범위한 교육이 포함되어 있습니다. 향상된 교육은보다 정확하고 상황에 맞는 코드 제안을 제공 할 것으로 예상됩니다.
 9 번째 검색 내용 
-제목 : 
-
-                            ESLint Now Officially Supports CSS, JSON, and Markdown
-                        
-주소 : https://www.infoq.com//news/2025/03/eslint-supports-css-json-markdow/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         Following up on plans to turn ESLint into a general-purpose linter, the ESLint team recently announced official support for the CSS language. The support comes in addition to recently added support for JSON and Markdown linting.
-                    
+제목 : Google Cloud는 AI Workloads 용 Nvidia Blackwell GPU로 A4 VM을 출시합니다.
+주소 : https://www.infoq.com//news/2025/03/google-a4-vms-nvidia-blackwell/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : Google Cloud는 NVIDIA의 BlackWell B200 GPU에 의해 구동되는 A4 VM을 출시하여 2.25 배의 성능 향상 및 고급 네트워킹으로 AI 워크로드를 혁신했습니다. 주요 기능에는 Google Kubernetes 엔진 및 Vertex AI와의 엄격한 통합이 포함되어 있으며 대규모 프로젝트의 배포 및 관리 강화가 포함됩니다. 이 혁신적인 파트너십은 AI의 클라우드 인프라에서 새로운 표준을 설정합니다.
 10 번째 검색 내용 
-제목 : 
-
-                            JavaOne 2025 Day 1: Our World, Moved by Java
-                        
-주소 : https://www.infoq.com//news/2025/03/day-one-java-one-2025/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         JavaOne 2025, celebrating the 30th birthday of the Java programming language, was held at the Oracle Conference Center in Redwood Shores, California. This three-day event consisted of 80 sessions and hand-on labs, and two keynotes. Day One, scheduled on March 18th, 2025, included the opening keynote and presentations from various conference tracks.
-                    
+제목 : Eslint는 이제 공식적으로 CSS, JSON 및 Markdown을 지원합니다
+주소 : https://www.infoq.com//news/2025/03/eslint-supports-css-json-markdow/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : Eslint 팀은 최근 Eslint를 일반 목적 라인으로 바꾸려는 계획을 세웠으며 최근 CSS 언어에 대한 공식 지원을 발표했습니다. 최근에 JSON 및 Markdown Linting에 대한 지원이 추가되었습니다.
 11 번째 검색 내용 
-제목 : 
-
-                            Dapr Agents: Scalable AI Workflows with LLMs, Kubernetes & Multi-Agent Coordination
-                        
-주소 : https://www.infoq.com//news/2025/03/dapr-agents/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         Introducing Dapr Agents—a groundbreaking framework for creating scalable AI agents using Large Language Models (LLMs). With robust workflows, multi-agent coordination, and cloud-neutral architecture, it enables enterprises to deploy thousands of resilient agents. Built on Dapr’s proven infrastructure, Dapr Agents ensures reliability and observability in AI-driven applications.
-                    
+제목 : Javaone 2025 Day 1 : 우리 세계, Java에 의해 움직였습니다
+주소 : https://www.infoq.com//news/2025/03/day-one-java-one-2025/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : Java Programming Langu 이 3 일간의 행사는 80 개의 세션과 핸드 온 랩과 2 개의 기조 연설로 구성되었습니다. 2025 년 3 월 18 일에 예정된 첫날에는 다양한 컨퍼런스 트랙의 개막식 및 프레젠테이션이 포함되었습니다.
 12 번째 검색 내용 
-제목 : 
-
-                            AWS AppSync Events Adds Direct WebSocket Message Publishing
-                        
-주소 : https://www.infoq.com//news/2025/03/aws-appsync-events-websocket-pub/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         AWS has boosted AppSync Events with direct WebSocket message publishing, enhancing real-time communication. This serverless API facilitates seamless event broadcasting to numerous subscribers and simplifies development by allowing combined publishing and receiving via WebSocket. Discover a faster way to build engaging applications today!
-                    
+제목 : DAPR 에이전트 : LLMS, Kubernetes 및 다중 에이전트 조정이있는 확장 가능한 AI 워크 플로우
+주소 : https://www.infoq.com//news/2025/03/dapr-agents/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : DAPR 에이전트 소개 - LLM (Lange Language Model)을 사용하여 확장 가능한 AI 에이전트를 생성하기위한 획기적인 프레임 워크. 강력한 워크 플로, 다중 에이전트 조정 및 클라우드 중립 아키텍처를 통해 기업은 수천 개의 탄력성 에이전트를 배치 할 수 있습니다. DAPR의 입증 된 인프라를 기반으로 한 DAPR 에이전트는 AI 중심 애플리케이션에서 신뢰성과 관찰 가능성을 보장합니다.
 13 번째 검색 내용 
-제목 : 
-
-                            Inertia 2.0 Released, Now Supports Asynchronous Requests
-                        
-주소 : https://www.infoq.com//news/2025/03/inertia-2-asynchronous-requests/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         The Inertia team recently released Inertia 2.0. New features include asynchronous requests, deferred props, prefetching, and polling. Asynchronous requests enable concurrency, lazy loading, and more.
-                    
+제목 : AWS AppSync 이벤트는 Direct WebSocket 메시지 게시를 추가합니다
+주소 : https://www.infoq.com//news/2025/03/aws-appsync-events-websocket-pub/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : AWS는 직접 WebSocket 메시지 게시로 AppSync 이벤트를 향상시켜 실시간 커뮤니케이션을 향상 시켰습니다. 이 서버리스 API는 수많은 가입자에게 원활한 이벤트 브로드 캐스트를 용이하게하고 WebSocket을 통해 결합 된 게시 및 수신을 허용하여 개발을 단순화합니다. 오늘날 매력적인 응용 프로그램을 구축 할 수있는 더 빠른 방법을 찾으십시오!
 14 번째 검색 내용 
-제목 : 
-
-                            Gemini Code Assist Now Grants Generous Free-Usage Limits to Everyone
-                        
-주소 : https://www.infoq.com//news/2025/03/gemini-code-assist-free-tier/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         Born as an enterprise-focused AI-based code generation tool, Gemini Code Assist now provides a free tier to individual developers with a limit of 6,000 code completions and 240 chat requests daily.
-                    
+제목 : 관성 2.0은 이제 비동기 요청을 지원합니다
+주소 : https://www.infoq.com//news/2025/03/inertia-2-asynchronous-requests/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 관성 팀은 최근 관성 2.0을 발표했습니다. 새로운 기능에는 비동기 요청, 연기 된 소품, 프리 페치 및 폴링이 포함됩니다. 비동기 요청은 동시성, 게으른 하중 등을 가능하게합니다.
 15 번째 검색 내용 
-제목 : 
-
-                            Uber Boosted Performance with Go's Profile-Guided Optimization
-                        
-주소 : https://www.infoq.com//news/2025/03/uber-performance-golang/?topicPageSponsorship=32a027e5-47c4-423e-bb81-283cf7a07813
-설명 : 
-                         Profile-guided optimization (PGO) has emerged as a powerful technique for improving application performance by using runtime data to inform compiler decisions. In a recent implementation, Uber collaborated with Google to integrate PGO into Golang, resulting in significant performance improvements and resource savings across their service fleet.
-                    
+제목 : Gemini Code Assist는 이제 모든 사람에게 관대 한 자유 사용 한도를 부여합니다.
+주소 : https://www.infoq.com//news/2025/03/gemini-code-assist-free-tier/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 엔터프라이즈 중심 AI 기반 코드 생성 도구로 태어난 Gemini Code Assist는 이제 매일 6,000 개의 코드 완료와 240 개의 채팅 요청이 제한되는 개별 개발자에게 무료 계층을 제공합니다.
