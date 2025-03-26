@@ -1,0 +1,134 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Inertia 2.0 Released, Now Supports Asynchronous Requests
+                        
+주소 : https://www.infoq.com//news/2025/03/inertia-2-asynchronous-requests/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         The Inertia team recently released Inertia 2.0. New features include asynchronous requests, deferred props, prefetching, and polling. Asynchronous requests enable concurrency, lazy loading, and more.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Gemini Code Assist Now Grants Generous Free-Usage Limits to Everyone
+                        
+주소 : https://www.infoq.com//news/2025/03/gemini-code-assist-free-tier/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Born as an enterprise-focused AI-based code generation tool, Gemini Code Assist now provides a free tier to individual developers with a limit of 6,000 code completions and 240 chat requests daily.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Uber Boosted Performance with Go's Profile-Guided Optimization
+                        
+주소 : https://www.infoq.com//news/2025/03/uber-performance-golang/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Profile-guided optimization (PGO) has emerged as a powerful technique for improving application performance by using runtime data to inform compiler decisions. In a recent implementation, Uber collaborated with Google to integrate PGO into Golang, resulting in significant performance improvements and resource savings across their service fleet.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Cloudflare Launches Media Transformations: Optimizing Short-Form Video
+                        
+주소 : https://www.infoq.com//news/2025/03/cloudflare-media-transformations/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Cloudflare’s Media Transformations simplifies video optimization for short-form content, eliminating complex pipelines and allowing users to enhance videos directly from their existing storage. With URL-based parameters for automation, it offers features like format conversion and frame extraction. Currently in beta, it's free until Q3 2025 and aims to streamline workflows across platforms.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Java 24 Delivers New Experimental and Many Final Features
+                        
+주소 : https://www.infoq.com//news/2025/03/java24-released/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Oracle has released version 24 of the Java programming language and virtual machine. As the third non-LTS release since JDK 21, the final feature set includes 24 JEPs. Two of these - Generational Shenandoah and Compact Object Headers - are new experimental features. Also, nearly half of these features are final, some of which have gone through the incubation and preview processes.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Azure Database for Mysql Trigger for Azure Functions in Public Preview
+                        
+주소 : https://www.infoq.com//news/2025/03/azure-mysql-trigger-functions/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Microsoft's Azure Database for MySQL now features a public preview of triggers for Azure Functions, enabling real-time data processing with event-driven automation. This innovative integration allows developers to track table changes seamlessly, enhancing analytics, compliance, and security, while scaling efficiently within Azure's serverless framework.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Project Leyden Ships Third Option for Faster Application Start with JEP 483 in Java 24
+                        
+주소 : https://www.infoq.com//news/2025/03/java-24-leyden-ships/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         In Java 24, Project Leyden’s JEP 483, "Ahead-of-Time Class Loading & Linking", starts Java applications like Spring PetClinic up to 40% faster without code changes or new application constraints. It needs a training run to build a cache file that ships with the application. With GraalVM Native Image and CRaC, the startup is 95-99% faster but faces more constraints. Leyden plans more improvements.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Meta Unifies Facebook’s Video Delivery System across Mobile and Web Apps
+                        
+주소 : https://www.infoq.com//news/2025/03/facebook-video-delivery-unifed/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Meta finalized efforts to consolidate Facebook’s video delivery system by migrating video experiences from older Watch product to more recent Reels product, which became the basis of the unified system. The unification process required changes across mobile UI, server backend, and ranking systems while ensuring a seamless transition for billions of users.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Google Launches Gemma 3 1B for Mobile and Web Apps
+                        
+주소 : https://www.infoq.com//news/2025/03/google-gemma-3-1b/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Requiring a "mere" 529MB, Gemma 3 1B is a small language model (SLM) specifically meant for distribution across mobile and Web apps, where models must download quickly and be responsive to keep user engagement high.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            .NET Team Announces Release of HybridCache Library for .NET 9
+                        
+주소 : https://www.infoq.com//news/2025/03/hybrid-cache-dotnet9-release/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Last week, the .NET Team announced the release of HybridCache, a new .NET 9 library, now available through the Microsoft.Extensions.Caching.Hybrid package. According to the source, the library is designed to enhance data storage and retrieval performance by combining both in-memory and distributed caches, such as Redis.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Jakarta NoSQL 1.0, Spring 7.0-M3, Maven 4.0-RC3, LangChain4j 1.0-beta2
+                        
+주소 : https://www.infoq.com//news/2025/03/java-news-roundup-mar10-2025/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         This week's Java roundup for March 10th, 2025, features news highlighting: OpenJDK JEPs targeted and proposed to target for JDK 25; the release of Jakarta NoSQL 1.0; the third milestone release of Spring Framework 7.0; the third release candidate of Maven 4.0; and the second beta release of LangChain4j 1.0.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            The Future of Htmx - Stability and Compatibility
+                        
+주소 : https://www.infoq.com//news/2025/03/htmx-future-stability-compat/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         The htmx team recently released an essay addressing the future of htmx. htmx wants to be a low-cost, high-value addition to the toolkits of web developers with a focus on stability and backward compatibility. Going forward, htmx will be developed with its existing users in mind. Websites built with htmx should be working for many years without changes.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            OpenAI Launches New API, SDK, and Tools to Develop Custom Agents
+                        
+주소 : https://www.infoq.com//news/2025/03/openai-responses-api-agents-sdk/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         OpenAI has announced the new Responses API, the Agents SDK, and observability tools to address the challenges that creating production-ready agents pose, such as building custom orchestration, and handling prompt iteration across complex, multi-step tasks.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Google Report Reveals How Threat Actors Are Currently Using Generative AI
+                        
+주소 : https://www.infoq.com//news/2025/03/misuse-generative-ai/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+
+15 번째 검색 내용 
+제목 : 
+
+                            DevProxy 0.25 Improves Configuration Management, Joins .NET Foundation
+                        
+주소 : https://www.infoq.com//news/2025/03/devproxy-025-net-foundation/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Microsoft has released version 0.25 of DevProxy, an API simulation command-line tool. The new version improves the tool's configuration management and adds a couple of usability features. The project is also added to the .NET Foundation, a non-profit organisation to support the .NET platform ecosystem.
+                    

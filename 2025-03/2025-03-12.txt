@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            SharePoint Framework 1.21 Adds Minor Updates for UI Components
+                        
+주소 : https://www.infoq.com//news/2025/03/spfx-121-updates-ui/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Microsoft recently released a beta version 1.21 of SharePoint Framework with minor feature updates regarding the user interface components. The public release is expected to contain more features.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Local Development with Workflow Studio for Step Functions
+                        
+주소 : https://www.infoq.com//news/2025/03/local-dev-aws-step-functions/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         AWS has enhanced its Workflow Studio for Step Functions, now integrated into Visual Studio Code via the AWS Toolkit. This allows developers to create and edit state machines locally with intuitive visual tools. Key features include Design and Code modes, localized testing capabilities, and support for ASL definitions, streamlining the development of distributed applications and workflows.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Google Introduces Widgets Quality Tiers
+                        
+주소 : https://www.infoq.com//news/2025/03/android-widget-quality-tiers/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Google will start classifying all Android widgets in three quality tiers based on their adherence to best practices and widget guidelines, helping creators improve the user experiences of their widgets.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            New Programming Language Vine Based on Interaction Nets
+                        
+주소 : https://www.infoq.com//news/2025/03/new-programming-language-vine/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Introducing Vine, an innovative programming language built on interaction nets that seamlessly integrates functional and imperative paradigms. Statically typed and compiled, Vine's intuitive syntax empowers developers to explore parallel computing's potential. With a robust compiler and active community, Vine invites collaboration and creativity.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            .NET 10 Preview 1: Updates in Runtime, SDK, Frameworks and More
+                        
+주소 : https://www.infoq.com//news/2025/03/dotnet10-preview1/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         At the end of February, .NET 10 Preview 1 was released, bringing several major updates and improvements across the platform. This first preview introduces enhancements to the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            GitLab Launches Support for Self-Hosted AI Platforms
+                        
+주소 : https://www.infoq.com//news/2025/03/gitlab-self-hosted-ai-platforms/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         On February 20, 2025, GitLab released version 17.9, which introduced improvements aimed at enhancing user experience and functionality. A highlight of this release is the general availability of GitLab Duo Self-Hosted, enabling organizations to deploy large language models (LLMs) within their infrastructure.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Milestone Releases of Spring Cloud, GlassFish and Grails, Devnexus 2025
+                        
+주소 : https://www.infoq.com//news/2025/03/java-news-roundup-mar03-2025/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         This week's Java roundup for March 3rd, 2025, features news highlighting: milestone releases of Spring Cloud 2025.0.0, GlassFish 8.0.0 and Grails 7.0.0; point releases of Spring gRPC 0.4.0, Helidon 4.2.0, Quarkus 3.19.2 and JHipster 1.29.1 and 1.29.0; the fourth release candidate of Netty 4.2.0; and Devnexus 2025.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Node.js 23.6 Now Runs TypeScript Natively
+                        
+주소 : https://www.infoq.com//news/2025/03/node-23-runs-typescript-natively/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         The Node team recently announced shipping TypeScript native support in Node 23.6. Node developers can now run TypeScript files without any extra configuration or flags. The feature, which was experimental in Node 22.6, is now stable. Native TypeScript support was among the most requested Node features by developers.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Vercel Fluid: a New Compute Model and an Alternative to Serverless?
+                        
+주소 : https://www.infoq.com//news/2025/03/vercel-fluid/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Vercel has recently introduced Vercel Fluid, an elastic compute model that allows a single worker to handle multiple requests, similar to a traditional server, while preserving the elasticity of serverless. By scaling functions before instances, Fluid maximizes available compute time, optimizing compute footprint and resource efficiency for long-running tasks and AI inference.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Google's Image Generation Model Imagen 3 Now Available in Vertex AI in Firebase as a Preview
+                        
+주소 : https://www.infoq.com//news/2025/03/imagen3-vertex-ai-firebase/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Google's most advanced GenAI image generation model, Imagen 3, is now available in preview through Vertex AI in Firebase enabling seamless integration into Android and iOS apps through its Kotlin and Swift SDKs.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            TypeScript 5.8 Released with Improved Inference and Better JavaScript Ecosystem Interoperability
+                        
+주소 : https://www.infoq.com//news/2025/03/typescript-58-released/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Daniel Rosenwasser, principal product manager at Microsoft, announced the release of TypeScript 5.8. The new release features, as usual, better type inference. It also improves performance and the interoperability with the JavaScript ecosystem.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Will instructlab.ai's Synthetic Data-Based LLM Fine-Tuning Make the Process More Accessible?
+                        
+주소 : https://www.infoq.com//news/2025/03/llm-finetuning-synthetic-data/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         InstructLab.ai implements the large-scale alignment for the chatbots concept(LAB), which intends to overcome the scalability challenges in the instruction-tuning phase of a large language model (LLM). Its approach leverages a synthetic data-based alignment tuning method for LLMs. Crafted taxonomies deliver the synthesization seeds for training data, reducing the need for human-annotated data.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Google Enhances AlloyDB Vector Search with Inline Filtering and Enterprise Observability
+                        
+주소 : https://www.infoq.com//news/2025/03/alloydb-filtering-observability/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Google enhanced its AlloyDB service with inline filtering and enterprise observability for vector search. This fully-managed PostgreSQL-compatible database now allows direct filtering during queries, offering improved speed and efficiency. Enhanced monitoring features provide deep insights, addressing scaling vector search operations challenges.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces a New Quantum Computing Chip with Ocelot
+                        
+주소 : https://www.infoq.com//news/2025/03/aws-ocelot-quantum-chip/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         AWS announced Ocelot, an innovative quantum computing chip designed to revolutionize error correction, reducing it by up to 90%. This cutting-edge architecture integrates 'cat qubit' technology, marking a significant advancement in quantum applications. As Ocelot paves the way for affordable, fault-tolerant quantum computing, it raises critical questions about security in a quantum-driven future.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            OpenSSF Publishes Security Baseline for Open-Source Projects
+                        
+주소 : https://www.infoq.com//news/2025/03/openssf-security-baseline/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         To help open-source maintainers keep their projects secure, the Open Source Security Foundation (OpenSSF) has published a set of guidelines based on international cybersecurity frameworks, standards, and regulations, the Open Source Project Security Baseline.
+                    

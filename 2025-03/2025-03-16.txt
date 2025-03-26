@@ -1,0 +1,134 @@
+1 번째 검색 내용 
+제목 : 
+
+                            OpenAI Launches New API, SDK, and Tools to Develop Custom Agents
+                        
+주소 : https://www.infoq.com//news/2025/03/openai-responses-api-agents-sdk/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         OpenAI has announced the new Responses API, the Agents SDK, and observability tools to address the challenges that creating production-ready agents pose, such as building custom orchestration, and handling prompt iteration across complex, multi-step tasks.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Google Report Reveals How Threat Actors Are Currently Using Generative AI
+                        
+주소 : https://www.infoq.com//news/2025/03/misuse-generative-ai/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+
+3 번째 검색 내용 
+제목 : 
+
+                            DevProxy 0.25 Improves Configuration Management, Joins .NET Foundation
+                        
+주소 : https://www.infoq.com//news/2025/03/devproxy-025-net-foundation/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Microsoft has released version 0.25 of DevProxy, an API simulation command-line tool. The new version improves the tool's configuration management and adds a couple of usability features. The project is also added to the .NET Foundation, a non-profit organisation to support the .NET platform ecosystem.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Google Cloud's AI Protection: a Solution to Securing AI Assets
+                        
+주소 : https://www.infoq.com//news/2025/03/gcp-ai-protection-security/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Google Cloud introduces AI Protection, a solution to safeguard against generative AI threats. Managing AI risks through vulnerability assessments, security policies, and proactive threat management enhances asset protection. Integrating with Google’s Security Command Center offers a centralized view of IT posture and advanced security intelligence for robust AI system defense.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Microsoft Launches New AI Chat Web App Template for .NET Development
+                        
+주소 : https://www.infoq.com//news/2025/03/microsoft-dotnet-ai-template/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Last week, Microsoft announced a new AI Chat Web App template, available in preview, designed to simplify AI development with .NET. This template is part of Microsoft's ongoing efforts to make AI more accessible, offering scaffolding and guidance in Visual Studio, Visual Studio Code, and the .NET CLI.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Learnings from Working with Programming Rules and Guidelines
+                        
+주소 : https://www.infoq.com//news/2025/03/learnings-programming-rules/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Programming rules and guidelines improve code consistency, but misapplication can lead to poor results. Arne Mertz suggests that software developers selectively adopt rules and guidelines, and document deviations with clear explanations. They can discuss their experiences in communities or during their daily work, to foster collaboration and improve code quality without unnecessary bureaucracy.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Microsoft Enhances Azure Elastic SAN with Auto Scale, Snapshot Support, and CRC Protection
+                        
+주소 : https://www.infoq.com//news/2025/03/azure-elastic-san-updates/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Microsoft's Azure Elastic SAN, launched in early 2024, revolutionizes cloud block storage with unique autoscale capabilities, snapshot support, and CRC protection for enhanced data integrity. This fully managed solution simplifies storage management and optimizes costs, making it ideal for businesses seeking efficient, high-availability solutions in the cloud.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Quarkus 3.19 Prepares for LTS Release 3.20
+                        
+주소 : https://www.infoq.com//news/2025/03/quarkus-3-19/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         One month after the release of Quarkus 3.18.0, version 3.19.0 was released in February 2025. This is the last release before the next long-term support (LTS) version, 3.20.0, which is now feature complete and scheduled to be released on March 26th according to the Release Planning guide. The new release uses the new @ConfigMapping infrastructure, UBI 9 images and Mockito’s inline strategy.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            SharePoint Framework 1.21 Adds Minor Updates for UI Components
+                        
+주소 : https://www.infoq.com//news/2025/03/spfx-121-updates-ui/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Microsoft recently released a beta version 1.21 of SharePoint Framework with minor feature updates regarding the user interface components. The public release is expected to contain more features.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Local Development with Workflow Studio for Step Functions
+                        
+주소 : https://www.infoq.com//news/2025/03/local-dev-aws-step-functions/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         AWS has enhanced its Workflow Studio for Step Functions, now integrated into Visual Studio Code via the AWS Toolkit. This allows developers to create and edit state machines locally with intuitive visual tools. Key features include Design and Code modes, localized testing capabilities, and support for ASL definitions, streamlining the development of distributed applications and workflows.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Google Introduces Widgets Quality Tiers
+                        
+주소 : https://www.infoq.com//news/2025/03/android-widget-quality-tiers/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Google will start classifying all Android widgets in three quality tiers based on their adherence to best practices and widget guidelines, helping creators improve the user experiences of their widgets.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            New Programming Language Vine Based on Interaction Nets
+                        
+주소 : https://www.infoq.com//news/2025/03/new-programming-language-vine/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         Introducing Vine, an innovative programming language built on interaction nets that seamlessly integrates functional and imperative paradigms. Statically typed and compiled, Vine's intuitive syntax empowers developers to explore parallel computing's potential. With a robust compiler and active community, Vine invites collaboration and creativity.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            .NET 10 Preview 1: Updates in Runtime, SDK, Frameworks and More
+                        
+주소 : https://www.infoq.com//news/2025/03/dotnet10-preview1/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         At the end of February, .NET 10 Preview 1 was released, bringing several major updates and improvements across the platform. This first preview introduces enhancements to the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            GitLab Launches Support for Self-Hosted AI Platforms
+                        
+주소 : https://www.infoq.com//news/2025/03/gitlab-self-hosted-ai-platforms/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         On February 20, 2025, GitLab released version 17.9, which introduced improvements aimed at enhancing user experience and functionality. A highlight of this release is the general availability of GitLab Duo Self-Hosted, enabling organizations to deploy large language models (LLMs) within their infrastructure.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Milestone Releases of Spring Cloud, GlassFish and Grails, Devnexus 2025
+                        
+주소 : https://www.infoq.com//news/2025/03/java-news-roundup-mar03-2025/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명 : 
+                         This week's Java roundup for March 3rd, 2025, features news highlighting: milestone releases of Spring Cloud 2025.0.0, GlassFish 8.0.0 and Grails 7.0.0; point releases of Spring gRPC 0.4.0, Helidon 4.2.0, Quarkus 3.19.2 and JHipster 1.29.1 and 1.29.0; the fourth release candidate of Netty 4.2.0; and Devnexus 2025.
+                    

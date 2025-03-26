@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            GPT-4o Code Completion Model Now Available in Public Preview for VS Code Copilot
+                        
+주소 : https://www.infoq.com//news/2025/03/gpt4o-code-completion-vscode/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         Recently, GPT-4o Copilot is introduced for Visual Studio Code (VS Code) users. This AI model is built upon the GPT-4o mini foundation and includes extensive training from over 275,000 high-quality public repositories across more than 30 widely used programming languages. The enhanced training is expected to provide more accurate and contextually relevant code suggestions.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Google Cloud Launches A4 VMs with NVIDIA Blackwell GPUs for AI Workloads
+                        
+주소 : https://www.infoq.com//news/2025/03/google-a4-vms-nvidia-blackwell/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         Google Cloud has launched A4 VMs, powered by NVIDIA's Blackwell B200 GPUs, revolutionizing AI workloads with a 2.25x performance boost and advanced networking. Key features include tight integration with Google Kubernetes Engine and Vertex AI, enhancing deployment and management of large-scale projects. This innovative partnership sets a new standard in cloud infrastructure for AI.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            ESLint Now Officially Supports CSS, JSON, and Markdown
+                        
+주소 : https://www.infoq.com//news/2025/03/eslint-supports-css-json-markdow/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         Following up on plans to turn ESLint into a general-purpose linter, the ESLint team recently announced official support for the CSS language. The support comes in addition to recently added support for JSON and Markdown linting.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            JavaOne 2025 Day 1: Our World, Moved by Java
+                        
+주소 : https://www.infoq.com//news/2025/03/day-one-java-one-2025/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         JavaOne 2025, celebrating the 30th birthday of the Java programming language, was held at the Oracle Conference Center in Redwood Shores, California. This three-day event consisted of 80 sessions and hand-on labs, and two keynotes. Day One, scheduled on March 18th, 2025, included the opening keynote and presentations from various conference tracks.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Dapr Agents: Scalable AI Workflows with LLMs, Kubernetes & Multi-Agent Coordination
+                        
+주소 : https://www.infoq.com//news/2025/03/dapr-agents/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         Introducing Dapr Agents—a groundbreaking framework for creating scalable AI agents using Large Language Models (LLMs). With robust workflows, multi-agent coordination, and cloud-neutral architecture, it enables enterprises to deploy thousands of resilient agents. Built on Dapr’s proven infrastructure, Dapr Agents ensures reliability and observability in AI-driven applications.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            AWS AppSync Events Adds Direct WebSocket Message Publishing
+                        
+주소 : https://www.infoq.com//news/2025/03/aws-appsync-events-websocket-pub/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         AWS has boosted AppSync Events with direct WebSocket message publishing, enhancing real-time communication. This serverless API facilitates seamless event broadcasting to numerous subscribers and simplifies development by allowing combined publishing and receiving via WebSocket. Discover a faster way to build engaging applications today!
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Inertia 2.0 Released, Now Supports Asynchronous Requests
+                        
+주소 : https://www.infoq.com//news/2025/03/inertia-2-asynchronous-requests/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         The Inertia team recently released Inertia 2.0. New features include asynchronous requests, deferred props, prefetching, and polling. Asynchronous requests enable concurrency, lazy loading, and more.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Gemini Code Assist Now Grants Generous Free-Usage Limits to Everyone
+                        
+주소 : https://www.infoq.com//news/2025/03/gemini-code-assist-free-tier/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         Born as an enterprise-focused AI-based code generation tool, Gemini Code Assist now provides a free tier to individual developers with a limit of 6,000 code completions and 240 chat requests daily.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Uber Boosted Performance with Go's Profile-Guided Optimization
+                        
+주소 : https://www.infoq.com//news/2025/03/uber-performance-golang/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         Profile-guided optimization (PGO) has emerged as a powerful technique for improving application performance by using runtime data to inform compiler decisions. In a recent implementation, Uber collaborated with Google to integrate PGO into Golang, resulting in significant performance improvements and resource savings across their service fleet.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Cloudflare Launches Media Transformations: Optimizing Short-Form Video
+                        
+주소 : https://www.infoq.com//news/2025/03/cloudflare-media-transformations/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         Cloudflare’s Media Transformations simplifies video optimization for short-form content, eliminating complex pipelines and allowing users to enhance videos directly from their existing storage. With URL-based parameters for automation, it offers features like format conversion and frame extraction. Currently in beta, it's free until Q3 2025 and aims to streamline workflows across platforms.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Java 24 Delivers New Experimental and Many Final Features
+                        
+주소 : https://www.infoq.com//news/2025/03/java24-released/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         Oracle has released version 24 of the Java programming language and virtual machine. As the third non-LTS release since JDK 21, the final feature set includes 24 JEPs. Two of these - Generational Shenandoah and Compact Object Headers - are new experimental features. Also, nearly half of these features are final, some of which have gone through the incubation and preview processes.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Azure Database for Mysql Trigger for Azure Functions in Public Preview
+                        
+주소 : https://www.infoq.com//news/2025/03/azure-mysql-trigger-functions/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         Microsoft's Azure Database for MySQL now features a public preview of triggers for Azure Functions, enabling real-time data processing with event-driven automation. This innovative integration allows developers to track table changes seamlessly, enhancing analytics, compliance, and security, while scaling efficiently within Azure's serverless framework.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Project Leyden Ships Third Option for Faster Application Start with JEP 483 in Java 24
+                        
+주소 : https://www.infoq.com//news/2025/03/java-24-leyden-ships/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         In Java 24, Project Leyden’s JEP 483, "Ahead-of-Time Class Loading & Linking", starts Java applications like Spring PetClinic up to 40% faster without code changes or new application constraints. It needs a training run to build a cache file that ships with the application. With GraalVM Native Image and CRaC, the startup is 95-99% faster but faces more constraints. Leyden plans more improvements.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Meta Unifies Facebook’s Video Delivery System across Mobile and Web Apps
+                        
+주소 : https://www.infoq.com//news/2025/03/facebook-video-delivery-unifed/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         Meta finalized efforts to consolidate Facebook’s video delivery system by migrating video experiences from older Watch product to more recent Reels product, which became the basis of the unified system. The unification process required changes across mobile UI, server backend, and ranking systems while ensuring a seamless transition for billions of users.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Google Launches Gemma 3 1B for Mobile and Web Apps
+                        
+주소 : https://www.infoq.com//news/2025/03/google-gemma-3-1b/?topicPageSponsorship=c76700c4-f873-4bb8-a8e4-2c9711adf807
+설명 : 
+                         Requiring a "mere" 529MB, Gemma 3 1B is a small language model (SLM) specifically meant for distribution across mobile and Web apps, where models must download quickly and be responsive to keep user engagement high.
+                    
