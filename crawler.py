@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup as bs4
 import os
+from googletrans import Translator
 
 header = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
@@ -46,13 +47,30 @@ def getDesc():
 
     return desc
 
+# 번역
+translator = Translator()
+
+def translate_text(text, retries=3):
+    for attempt in range(retries):
+        try:
+            result = translator.translate(text, dest='ko')
+            return result.text
+        except Exception as e:
+            print(f"오류가 발생했습니다: {e}")
+            break
+    return None
+
 # 내용 저장
 def saveText(month, filename):
     ## w 는 쓰기 모드로 파일을 연다는 것을 의미
-    f = open("./"+month+"/"+filename+".txt", "w")
+    f = open("./"+month+"/"+filename+".txt", "w", encoding='utf-8')
 
     ## title 의 길이만큼, 즉 크롤링해온 내용만큼 for 문 시작
     for i in range(len(title)):
+
+        #번역
+        title[i] = translate_text(title[i])
+        desc[i] = translate_text(desc[i])
 
         ## 저장할 내용을 str 형태로 생성
         ## 반복문이니까 각 list 에서 i 번째 요소를 가져와서 str 로 저장한다
