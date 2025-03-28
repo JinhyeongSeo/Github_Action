@@ -1,0 +1,60 @@
+1 번째 검색 내용 
+제목 : Amazon Gamelift Streams는 고 충실도, 브라우저 기반 게임 스트리밍을 위해 출시됩니다
+주소 : https://www.infoq.com//news/2025/03/amazon-gamelift-streams/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : Amazon Gamelift 스트림 소개 : 개발자가 1080p 및 60fps의 WebRTC 지원 브라우저로 직접 게임을 스트리밍 할 수있는 혁신적인 서비스. 배포를 단순화하고 광범위한 잠재 고객에게 도달하며 플레이어 참여를 향상시킵니다. 필요한 인프라 또는 코드 점검이 필요하지 않습니다. 오늘 타이틀을 변환하십시오!
+2 번째 검색 내용 
+제목 : Javaone 2025 Day 2 : FFM API, 가상 스레드, 플랫폼 엔지니어링, Jakarta EE의 진화
+주소 : https://www.infoq.com//news/2025/03/day-two-java-one-2025/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : Java Programming Langu 이 3 일간의 행사는 80 개의 세션과 핸드 온 랩과 2 개의 기조 연설로 구성되었습니다. 2025 년 3 월 19 일에 예정된 2 일째에는 다양한 컨퍼런스 트랙의 프레젠테이션이 포함되었습니다.
+3 번째 검색 내용 
+제목 : Github는보다 정확한 코드 비밀 스캔을 위해 AI를 활용합니다
+주소 : https://www.infoq.com//news/2025/03/github-ai-copilot-secretscanning/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : Github은 Copilot 내에서 획기적인 AI 중심 비밀 스캔 기능을 공개하여 코드의 암호 감지를 향상시키면서 오 탐지를 크게 줄였습니다. Github은 고급 컨텍스트 분석 및 Microsoft와의 협업을 활용하여 강력한 저장소 보안을 보장합니다. 이제 모든 사용자가 이용할 수있는 정밀 구동 기술로 새로운 코드 무결성을 경험하십시오.
+4 번째 검색 내용 
+제목 : 동물 군이 종료 : 미래는 오픈 소스입니까?
+주소 : https://www.infoq.com//news/2025/03/fauna-shuts-down/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : 분산 서버리스 데이터베이스 동물 군의 팀은 최근 5 월 말까지 서비스를 종료 할 계획을 발표했습니다. 관리되는 데이터베이스는 곧 종료되고 모든 고객이 다른 플랫폼으로 마이그레이션해야하지만 Fauna는 기존 드라이버 및 CLI 툴링과 함께 핵심 데이터베이스 기술의 오픈 소스 버전을 공개하기 위해 노력하고 있습니다.
+5 번째 검색 내용 
+제목 : Microsoft는 공식적으로 첫 SDK 베타로 Azure의 Rust를 지원합니다.
+주소 : https://www.infoq.com//news/2025/03/azure-sdk-rust-beta/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : Rust for Azure SDK의 Microsoft의 베타 릴리스는 개발자가 Azure Services와 완벽하게 연결할 수 있도록합니다. ID, Key Vault, Event Hubs 및 Cosmos DB를위한 라이브러리를 특징으로하는이 이니셔티브는 고성능 응용 프로그램에서 Rust의 증가하는 중요성을 강조합니다. Microsoft가 SDK를 향상 시키면 강력하고 사용자 친화적 인 개발자 경험을 제공하는 것을 목표로합니다.
+6 번째 검색 내용 
+제목 : OpenSilver 3.2는 Silverlight 및 WPF를 모바일 장치로 확장합니다
+주소 : https://www.infoq.com//news/2025/03/opensilver-32-crossplatform/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : Microsoft의 은퇴 한 Silverlight Web Application Framework의 리메이크 인 Opensilver 3.2의 최신 버전은 .NET Maui 하이브리드 접근 방식을 사용하여 플랫폼을 모바일 장치로 확장합니다.
+7 번째 검색 내용 
+제목 : .NET 10 미리보기 2 : 향상된 재 연결 UI, 개선 된 블레이저 기능 및 스택 전체의 업데이트
+주소 : https://www.infoq.com//news/2025/03/dotnet-10-preview2/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : 지난주 .NET 팀은 .NET 10의 두 번째 미리보기 릴리스를 발표했습니다.
+8 번째 검색 내용 
+제목 : Java News Roundup : JDK 24, JDK 24 용 Graalvm, Payara 플랫폼, Kafka 4.0, Spring Cves, Javaone 2025
+주소 : https://www.infoq.com//news/2025/03/java-news-roundup-mar17-2025/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : 이번 주 2025 년 3 월 17 일 Java Roundup은 뉴스 강조 표시를 특징으로합니다. JDK 24 및 Apache Kafka 4.0의 GA 릴리스; Payara 플랫폼의 2025 년 3 월 판; 스프링 보안 CVE; 및 Javaone 2025.
+9 번째 검색 내용 
+제목 : Tiktok의 기본 크로스 플랫폼 UI 프레임 워크 Lynx는 오픈 소스입니다
+주소 : https://www.infoq.com//news/2025/03/tiktok-lynx-cross-platform-apps/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : Tittok Matrix Bytedance에는 웹 마크 업, CSS 및 JavaScript를 사용하여 기본 크로스 플랫폼 모바일 앱을 생성 할 수있는 프레임 워크 및 도구 모음 인 Open-Sourced Lynx가 있습니다. Lynx는 맞춤형 JavaScript 엔진과 Pixel-Perfect UI 렌더링 덕분에 기본 성능을 제공하는 것을 목표로합니다.
+10 번째 검색 내용 
+제목 : Spring News Roundup : 부팅, 보안, 인증 서버, GraphQL, 통합, AMQP의 이정표 릴리스
+주소 : https://www.infoq.com//news/2025/03/spring-news-roundup-mar17-2025/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : 2025 년 3 월 17 일 주에 봄 생태계에서 활동이 급증하여 Spring Boot, Spring Security, Spring Authorization Server 용 Spring, Spring Integration, Spring AMQP, Spring for Apache Kafka 및 Spring Web Services의 이정표 릴리스를 강조했습니다.
+11 번째 검색 내용 
+제목 : GPT-4O 코드 완료 모델 VS Code Copilot에 대한 공개 미리보기에서 사용할 수 있습니다.
+주소 : https://www.infoq.com//news/2025/03/gpt4o-code-completion-vscode/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : 최근에 GPT-4O Copilot은 Visual Studio Code (VS Code) 사용자를 위해 소개되었습니다. 이 AI 모델은 GPT-4O Mini Foundation을 기반으로 구축되었으며 30 개 이상의 널리 사용되는 프로그래밍 언어에 걸쳐 275,000 개 이상의 고품질 공공 저장소의 광범위한 교육이 포함되어 있습니다. 향상된 교육은보다 정확하고 상황에 맞는 코드 제안을 제공 할 것으로 예상됩니다.
+12 번째 검색 내용 
+제목 : Google Cloud는 AI Workloads 용 Nvidia Blackwell GPU로 A4 VM을 출시합니다.
+주소 : https://www.infoq.com//news/2025/03/google-a4-vms-nvidia-blackwell/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : Google Cloud는 NVIDIA의 BlackWell B200 GPU에 의해 구동되는 A4 VM을 출시하여 2.25 배의 성능 향상 및 고급 네트워킹으로 AI 워크로드를 혁신했습니다. 주요 기능에는 Google Kubernetes 엔진 및 Vertex AI와의 엄격한 통합이 포함되어 있으며 대규모 프로젝트의 배포 및 관리 강화가 포함됩니다. 이 혁신적인 파트너십은 AI의 클라우드 인프라에서 새로운 표준을 설정합니다.
+13 번째 검색 내용 
+제목 : Eslint는 이제 공식적으로 CSS, JSON 및 Markdown을 지원합니다
+주소 : https://www.infoq.com//news/2025/03/eslint-supports-css-json-markdow/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : Eslint 팀은 최근 Eslint를 일반 목적 라인으로 바꾸려는 계획을 세웠으며 최근 CSS 언어에 대한 공식 지원을 발표했습니다. 최근에 JSON 및 Markdown Linting에 대한 지원이 추가되었습니다.
+14 번째 검색 내용 
+제목 : Javaone 2025 Day 1 : 우리 세계, Java에 의해 움직였습니다
+주소 : https://www.infoq.com//news/2025/03/day-one-java-one-2025/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : Java Programming Langu 이 3 일간의 행사는 80 개의 세션과 핸드 온 랩과 2 개의 기조 연설로 구성되었습니다. 2025 년 3 월 18 일에 예정된 첫날에는 다양한 컨퍼런스 트랙의 개막식 및 프레젠테이션이 포함되었습니다.
+15 번째 검색 내용 
+제목 : DAPR 에이전트 : LLMS, Kubernetes 및 다중 에이전트 조정이있는 확장 가능한 AI 워크 플로우
+주소 : https://www.infoq.com//news/2025/03/dapr-agents/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명 : DAPR 에이전트 소개 - LLM (Lange Language Model)을 사용하여 확장 가능한 AI 에이전트를 생성하기위한 획기적인 프레임 워크. 강력한 워크 플로, 다중 에이전트 조정 및 클라우드 중립 아키텍처를 통해 기업은 수천 개의 탄력성 에이전트를 배치 할 수 있습니다. DAPR의 입증 된 인프라를 기반으로 한 DAPR 에이전트는 AI 중심 애플리케이션에서 신뢰성과 관찰 가능성을 보장합니다.
